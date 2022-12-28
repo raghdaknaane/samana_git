@@ -1,3 +1,3 @@
-#samana
-##creator: Raghda Knaane
+# samana
+## creator: Raghda Knaane
 my reminder exercise
